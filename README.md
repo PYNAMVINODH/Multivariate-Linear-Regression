@@ -46,6 +46,7 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 
 ```
 ## Output:
+![image](https://github.com/PYNAMVINODH/Multivariate-Linear-Regression/assets/145742678/154b92f0-fc4a-43c3-9611-1aeb5ec3c045)
 
 ### Insert your output
 
