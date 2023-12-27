@@ -30,7 +30,7 @@ Print the parameters of the linear function.
 import pandas as pd
 from sklearn import linear_model
 
-df = pd.read_csv("cars (1).csv")
+df = pd.read_csv("GT.csv")
 X=df[['Weight','Volume']]
 Y=df['CO2']
 regr=linear_model.LinearRegression()
